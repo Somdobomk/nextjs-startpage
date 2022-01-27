@@ -1,8 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# About
+
+<div align="center">
+    <img src="./assets/images/screenshot.png" width="400px">
+</div>
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [Typescript](https://www.typescriptlang.org/) and uses [TailwindCSS](https://tailwindcss.com/) for styling.
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repository:
+
+```bash
+git clone https://github.com/Somdobomk/nextjs-startpage.git
+cd nextjs-startpage
+```
+
+Then install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
