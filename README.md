@@ -4,7 +4,7 @@
     <img src="./assets/images/screenshot.png" width="400px">
 </div>
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [Typescript](https://www.typescriptlang.org/) and uses [TailwindCSS](https://tailwindcss.com/) for styling.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app --typescript`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and uses [TailwindCSS](https://tailwindcss.com/) for styling.
 
 ## Getting Started
 
@@ -25,8 +25,6 @@ Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -45,6 +43,18 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+To learn more about Typescript, take a look at the following resources:
+
+- [Typescript Documentation](https://www.typescriptlang.org/docs/) - learn about Typescript features and API.
+
+You can check out [the Typescript GitHub repository](https://github.com/microsoft/TypeScript/) - your feedback and contributions are welcome!
+
+To learn more about Tailwindcss, take a look at the following resources:
+
+- [Tailwindcss Documentation](https://tailwindcss.com/docs/) - learn about Tailwindcss features and API.
+
+You can check out [the Tailwind CSS GitHub repository](https://github.com/tailwindlabs/tailwindcss) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
